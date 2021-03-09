@@ -1,6 +1,7 @@
 {
-  "name": "vue-tailwind-boilerplate",
-  "version": "0.1.0",
+  "name": "frontend-junior-dev",
+  "version": "1.0.0",
+  "license": "LGPL-2.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -22,6 +23,8 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "faker": "^5.4.0",
+    "miragejs": "^0.1.41",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
