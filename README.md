@@ -37,6 +37,8 @@ The mock API was created with [Miragejs](https://miragejs.com/) and [Fakerjs](ht
 
 The Tailwind version is `2.0.3`, so read the [latest documentation](https://tailwindcss.com/).
 
+This project use eslint with `vue recommended` and `eslint default` rules. You can check [vue recommended rules here](https://eslint.vuejs.org/rules/) and [eslint default rules here](https://eslint.org/docs/rules/).
+
 **Suggestion: Focus on the tasks firstly, then in the details.**
 
 ## Bonus (Optional)
