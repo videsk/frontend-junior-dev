@@ -12,11 +12,25 @@ In case you're a developer, use it as a homework to practice or learn how to bui
 
 1. [Rules](#rules)
 2. [Overview](#overview)
-3. [Tasks](#tasks)
+3. [Part 1: Create Custom Web Components](#part-1-create-custom-web-components)
+   - [Tasks](#tasks)
+     - [Task 1: Create Article Component](#task-1-create-article-component)
+     - [Task 2: Create Articles List Component](#task-2-create-articles-list-component)
+     - [Task 3: Create Author Component](#task-3-create-author-component)
+   - [CSS Resources](#css-resources)
+   - [Data Structures](#data-structures)
 4. [Using the API](#using-the-api)
 5. [Bonus](#bonus)
-6. [Submission](#submission)
-7. [Useful Resources](#useful-resources)
+6. [Part 2: Smart Form Challenge](#part-2-smart-form-challenge)
+   - [Overview](#overview-1)
+   - [Requirements](#requirements)
+   - [Submission Format](#submission-format)
+   - [Evaluation Criteria](#evaluation-criteria)
+   - [Tips](#tips)
+   - [Questions to Consider](#questions-to-consider)
+   - [Bonus Points](#bonus-points)
+7. [Submission](#submission)
+8. [Useful Resources](#useful-resources)
 
 # Rules
 
